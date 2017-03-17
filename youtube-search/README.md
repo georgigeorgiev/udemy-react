@@ -1,1 +1,1 @@
-# Youtube search app - React only
+# Youtube search application - React only
